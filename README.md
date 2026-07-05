@@ -76,13 +76,6 @@ Run the program:
 .\MovieBooking.exe
 ```
 
-### Linux / macOS
-
-```bash
-./MovieBooking
-```
-
----
 
 ## Menu
 
